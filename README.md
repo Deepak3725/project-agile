@@ -98,5 +98,7 @@ If you have run out of energy or time for your project, put a note at the top of
    cross-functional self-organizing teams, enabling frequent customer
    feedback and course correction as needed.
 
+      The type of flowers are virginia, setosa and versicolor
+
    1. Scrum methodology
    1. Constant customer feedback
